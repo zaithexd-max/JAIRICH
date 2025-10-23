@@ -1,0 +1,1 @@
+#LEGB Local -> Enclosed -> Global -> Buitin
